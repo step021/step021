@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a fourth-year Computer Science student minoring in Economics at Georgia Tech. I have a strong background in Python, Java, Django/Django Rest Framework, and React.js for full-stack development, coupled with a passion for data-driven insights. I love tackling complex problems and creating software that empowers businesses and individuals alike. I'm currently seeking opportunities in software engineering or data science, where I can leverage my technical expertise and analytical mindset. 
+
+Check out: <a href = "https://sebastianxstephens.com/:">sebastianxstephens.com</a>
